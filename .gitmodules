@@ -1,0 +1,32 @@
+[submodule "Excel-VBA-Productivity-Libraries"]
+	path = Excel-VBA-Productivity-Libraries
+	url = https://github.com/emilefyon/Excel-VBA-Productivity-Libraries.git
+	branch = master
+[submodule "funcVBA"]
+	path = funcVBA
+	url = https://github.com/shapiromatron/funcVBA.git
+	branch = master
+[submodule "VBA-for-Work"]
+	path = VBA-for-Work
+	url = https://github.com/alokreddy/VBA-for-Work.git
+	branch = master
+[submodule "vba-helpers-addin"]
+	path = vba-helpers-addin
+	url = https://github.com/dweedul/vba-helpers-addin.git
+	branch = master
+[submodule "VBA-Web"]
+	path = VBA-Web
+	url = https://github.com/VBA-tools/VBA-Web.git
+	branch = master
+[submodule "vbaDeveloper"]
+	path = vbaDeveloper
+	url = https://github.com/hilkoc/vbaDeveloper.git
+	branch = master
+[submodule "VBAMacros"]
+	path = VBAMacros
+	url = https://github.com/christwellman/VBAMacros.git
+	branch = master
+[submodule "VBAToolKit"]
+	path = VBAToolKit
+	url = https://github.com/jpimbert/VBAToolKit.git
+	branch = master
